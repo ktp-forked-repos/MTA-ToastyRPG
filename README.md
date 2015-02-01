@@ -40,9 +40,17 @@ Komendy:
 Aby można było otworzyć panel lidera frakcji, gracz musi mieć ustawioną odpowiednią elementDatę. Dla poszczególnych frakcji są to:
 
 Pomoc Drogowa: lider:pd
+
+
 Policja: lider:policja
+
+
 Pogotowie: lider:pogotowie
+
+
 Urząd: lider:urzad
+
+
 Taxi: lider:taxi
 
 
